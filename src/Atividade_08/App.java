@@ -18,5 +18,6 @@ public class App {
         System.out.println(documentos); // 300 KB
         System.out.println(midias);     // 6200 KB
         System.out.println(raiz);       // 6500 KB
+        System.err.println(' ');
     }
 }
